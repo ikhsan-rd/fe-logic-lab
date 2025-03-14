@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+.navbar {
+  @apply mx-auto max-w-7xl px-8 shadow-md;
+}
+
+.navbar-brand {
+  @apply relative flex flex-1 items-center justify-start;
+}
+
+.navbar-buttons {
+  @apply flex space-x-4;
+}
+
+.navbar-item {
+  @apply px-3 py-2 text-sm;
+}
+
+.navbar-menu {
+  @apply flex h-16 w-auto items-center justify-end;
+}
+
+.nav-buttons {
+  @apply absolute inset-y-0 right-0 flex pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-1;
+}
+
+.section {
+  @apply mx-auto px-20 sm:py-48 lg:py-56;
+}
+
+.title {
+  @apply text-5xl font-semibold md:text-5xl lg:text-6xl;
+}
+
+.subtitle {
+  @apply mt-3 mb-5 text-base md:text-xl lg:text-2xl;
+}
+
+.has-outline {
+  @apply outline-1 outline-red-500;
+}

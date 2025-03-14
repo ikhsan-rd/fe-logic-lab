@@ -1,0 +1,21 @@
+{
+  "name": "project-website-logic-lab",
+  "version": "1.0.0",
+  "description": "Logic Lab adalah penyedia jasa pembuatan website profesional yang menghadirkan solusi web modern, responsif, dan sesuai kebutuhan. Di Logic Lab, kami percaya bahwa website bukan sekadar tampilan, tetapi juga alat yang mampu meningkatkan visibilitas dan produktivitas bisnis Anda. Percayakan kebutuhan website Anda kepada kami, dan wujudkan ide digital Anda bersama Logic Lab!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm create @vuelatest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaulanaRoyyanTsubaisa/Logic-Lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaulanaRoyyanTsubaisa/Logic-Lab/issues"
+  },
+  "homepage": "https://github.com/MaulanaRoyyanTsubaisa/Logic-Lab#readme"
+}
